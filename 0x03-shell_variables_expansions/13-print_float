@@ -1,3 +1,2 @@
 #!/bin/bash
-printf %0.2fn $NUM
-printf %.2fn  $NUM
+print %.2n $NUM
